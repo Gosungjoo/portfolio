@@ -6,20 +6,21 @@
 
  유튜브를 시청하면서 댓글을 쓰거나 정보를 얻을 수 있도록 도와주는 어플리케이션
 
- * **Client** *JQuery, HTML*
- * **Server** *Django*
+<br>
+<br>
  
 
-### my role
- **Client logic, Request** 
+ * **Client** *JQuery, HTML* <- ***My role***
+ * **Server** *Django*
 
 
 
+<br>
+<br>
 
 
 # Presentation
 
- [-> main page](https://github.com/Gosungjoo/portfolio)
 
 
 
@@ -59,3 +60,5 @@
 
  <br>
  
+
+  ## **[Back Main page](https://github.com/Gosungjoo/portfolio)**
